@@ -2,7 +2,7 @@
 #include<opencv2/highgui/highgui.hpp>
 //rectangle() function
 #include<opencv2/imgproc/imgproc.hpp>
-//This header includes the definition of Cascade Classifier//
+//contains definition of Cascade Classifier
 #include<opencv2/objdetect/objdetect.hpp>
 #include<string>
 using namespace std;
